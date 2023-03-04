@@ -1,0 +1,23 @@
+.signup .info-field label{
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+
+table thead .content {
+    width: 45%;
+}
+
+#dashtbody .profile:hover,
+#hometbody .article:hover{
+    cursor: pointer;
+    color: coral;
+    text-decoration: underline;
+}
+
+.d-inline {
+    display: inline!important;
+    font-size: 12px;
+    color: #777;
+}
+
